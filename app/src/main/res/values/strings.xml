@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BlinqAttempt1</string>
+    <string name="request_an_invite">Request an invite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="broccoli_amp_co"><![CDATA[Broccoli & Co]]></string>
+    <string name="request_invite_to_get_beta_access">Request invite to get beta access</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="email_">Email</string>
+    <string name="submit">Submit</string>
+    <string name="inviteText">You have been registered, click the button below cancel your invite</string>
+    <string name="cancelButtonText">Cancel invite</string>
+    <string name="cancelText">Request invite to get beta access</string>
+    <string name="inviteButtonText">Request an invite</string>
+</resources>
