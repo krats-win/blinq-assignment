@@ -13,4 +13,5 @@
     <string name="cancelButtonText">Cancel invite</string>
     <string name="cancelText">Request invite to get beta access</string>
     <string name="inviteButtonText">Request an invite</string>
+    <string name="registration_form">Registration Form</string>
 </resources>
